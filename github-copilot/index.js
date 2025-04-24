@@ -44,6 +44,6 @@ function validarCartao(numeroCartao) {
 }
 
 // Exemplo de uso:
-const numeroCartao = "5034 5283 6174 0219"; // Substitua pelo número do cartão
+const numeroCartao = "5408 4751 5502 1810"; // Substitua pelo número do cartão
 const resultado = validarCartao(numeroCartao);
-console.log(resultado); // { valido: true, bandeira: 'Visa' }
+console.log(resultado); // { valido: true, bandeira: 'MasterCard' }
