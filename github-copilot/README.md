@@ -1,5 +1,3 @@
-# README
-
 ## Projeto de Validação de Cartão de Crédito
 
 Este projeto foi desenvolvido como parte do curso **Microsoft 50 Anos - GitHub Copilot**. O objetivo principal deste projeto é validar números de cartões de crédito, garantindo que eles estejam no formato correto e que sejam válidos de acordo com o algoritmo de Luhn.
