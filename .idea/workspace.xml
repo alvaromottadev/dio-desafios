@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a4fcf76-0525-4fd4-adf3-41c037a0d6ab" name="Changes" comment="" />
+    <list default="true" id="d8c38289-495e-4ff6-92b4-505015436290" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banco-console/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banco-console/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banco-console/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banco-console/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banco-console/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banco-console/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banco-console/banco-console.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banco-console/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +39,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="30ZA1X83IbfvcBRpAiRjdUxJOt4" />
+  <component name="ProjectId" id="30ZAftpTrBXbZHVNUy6AePf5ZIs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,7 +50,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Computador/Desktop/GitHub Repositories/dio-desafios",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -56,12 +65,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8a4fcf76-0525-4fd4-adf3-41c037a0d6ab" name="Changes" comment="" />
-      <created>1753824506311</created>
+      <changelist id="d8c38289-495e-4ff6-92b4-505015436290" name="Changes" comment="" />
+      <created>1753824827241</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1753824506311</updated>
-      <workItem from="1753824507447" duration="108000" />
+      <updated>1753824827241</updated>
+      <workItem from="1753824828524" duration="18000" />
     </task>
     <servers />
   </component>
