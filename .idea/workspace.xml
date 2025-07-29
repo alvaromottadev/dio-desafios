@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8c38289-495e-4ff6-92b4-505015436290" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dio-desafios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banco-console/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banco-console/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banco-console/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banco-console/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banco-console/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banco-console/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banco-console/banco-console.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banco-console/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,41 +16,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "alvaromottadev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alvaromottadev&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/alvaromottadev/dio-desafios",
-    "accountId": "bde246b2-be4c-4e50-9dfe-b1d50ef326af"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alvaromottadev/dio-desafios&quot;,
+    &quot;accountId&quot;: &quot;bde246b2-be4c-4e50-9dfe-b1d50ef326af&quot;
   }
-}]]></component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="30ZAftpTrBXbZHVNUy6AePf5ZIs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Computador/Desktop/GitHub Repositories/dio-desafios",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Computador/Desktop/GitHub Repositories/dio-desafios&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753824827241</updated>
       <workItem from="1753824828524" duration="18000" />
+      <workItem from="1753824976277" duration="17000" />
     </task>
     <servers />
   </component>
