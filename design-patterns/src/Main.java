@@ -1,3 +1,4 @@
+import facade.AddressService;
 import singleton.SingletonPattern;
 import strategy.CreditCard;
 import strategy.PayPal;
@@ -18,6 +19,14 @@ public class Main {
         payment.pay(new PayPal());
         payment.pay(new CreditCard());
 
+        // Facade Pattern
+        AddressService addressService = new AddressService();
+        String cep = "12345-678";
+        try {
+            addressService.saveAddress(cep);
+        } catch (IllegalArgumentException e) {
+            System.out.println("Error: " + e.getMessage());
+        }
 
     }
 
